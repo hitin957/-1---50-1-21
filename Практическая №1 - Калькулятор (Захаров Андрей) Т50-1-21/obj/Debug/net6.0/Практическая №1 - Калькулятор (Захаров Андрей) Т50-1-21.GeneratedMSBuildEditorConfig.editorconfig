@@ -1,0 +1,10 @@
+is_global = true
+build_property.TargetFramework = net6.0
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = 
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = Практическая__1___Калькулятор__Захаров_Андрей__Т50_1_21
+build_property.ProjectDir = C:\Users\nikol\source\repos\Практическая №1 - Калькулятор (Захаров Андрей) Т50-1-21\Практическая №1 - Калькулятор (Захаров Андрей) Т50-1-21\
